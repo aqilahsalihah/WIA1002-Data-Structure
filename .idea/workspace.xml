@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1abdcde1-234c-4b0b-bc86-dc07365004a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AqilahSalihah_U2101806.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/Lab 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/Q3_Q4/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/Q3_Q4/Account1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/Q3_Q4/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/Q3_Q4/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/ReadMyLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 1/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture/Lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture/src/TestArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture/src/animalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/Tutorial 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/src/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/src/Telephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial 1/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WIA1002 data structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N8Fs0xugAryK15YA68O79vCQd3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "16",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aqilah\IdeaProjects\WIA1002 data structure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C" />
+      <module name="Tutorial 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2" />
+      <module name="Lab 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadMyLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadMyLetter" />
+      <module name="Lab 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Telephone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Telephone" />
+      <module name="Tutorial 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_Q4.main" />
+      <module name="Lab 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3_Q4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.ReadMyLetter" />
+        <item itemvalue="Application.Telephone" />
+        <item itemvalue="Application.C" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1abdcde1-234c-4b0b-bc86-dc07365004a6" name="Changes" comment="" />
+      <created>1679038006338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679038006338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
